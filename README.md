@@ -1,5 +1,79 @@
-# 💫 About Me:
-Hi there 👋<br>I'm Zakaria Banid, a Full-Stack Developer specializing in Spring Boot & Angular. I enjoy building scalable web applications and working with microservices.<br><br>🚀 What I’m working on:<br>IT equipment management system<br>Construction project management app<br>Online fish meat store<br>🌱 Learning:<br>Front-end development at ALX<br>Practicing Java on my own<br>Spring Security 6 & Microservices<br>📫 Connect with me:<br>GitHub: banidzakaria101<br>Email: banidzakaria@gmail.com
+<h1 align="center">Hi 👋, I'm Zakaria Banid</h1>
+
+<p align="center">
+  <strong>Full-Stack Developer | React & Angular | Java + Spring Boot | ALX & SIMPLON Graduate</strong><br>
+  <em>Building web apps that solve real problems, learning in public, and helping others grow through code.</em>
+</p>
+
+---
+
+### 🚀 About Me
+
+I’m currently a learner in the **ALX Software Engineering Program**, focusing on mastering **React and front-end development**.  
+Previously, I completed a full-stack training program with **SIMPLON**, where I built and deployed Java-based backends using **Spring Boot**, and responsive front-ends using **Angular**.
+
+I got into software engineering because I’m passionate about **creating useful, real-world solutions**, and I’m inspired by how tech can scale impact from one person to thousands.
+
+---
+
+### 🌍 My Vision
+
+In the next 3–5 years, I see myself:
+- Working remotely as a **senior full-stack engineer**
+- Running my own **online tech business**
+- Sharing what I know through a **YouTube coding channel**
+- Building useful tools that make other developers' lives easier
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**:  
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+**Backend**:  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+
+**Tools & DevOps**:  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+---
+
+### 📦 Projects I've Worked On
+
+- 🖥️ **IT Equipment Management System** – Java + Angular full-stack
+- 🏗️ **Construction Project Manager** – microservices-based app with Spring Boot + Angular
+- 🐟 **Online Fish Store** – e-commerce with Angular, Spring Boot, MySQL
+- ⛅ **Weather App** – rebuilt with React + external API
+- 🔐 **Auth Demo App** – Angular + Spring Security with JWT
+
+---
+
+### 🌱 Currently Learning
+- Advanced React & TypeScript
+- Testing (Jest, React Testing Library)
+- CI/CD, Docker, and deploying full apps
+
+---
+
+### 🤝 Connect With Me
+- 📧 Email: [banidzakaria@gmail.com](mailto:banidzakaria@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/zakaria-banid-3052bb204](https://www.linkedin.com/in/zakaria-banid-3052bb204)
+- 💻 GitHub: [@banid.zack101](https://github.com/banid.zack101)
+
+---
+
+<p align="center">
+  <em>“Code. Create. Share. Repeat.”</em>
+</p>
+
 
 
 ## 🌐 Socials:
